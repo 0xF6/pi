@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "echo 1"
+  },
+  "name": "pi",
+  "version": "1.0.0",
+  "author": "Yuuki Wesp"
+}
