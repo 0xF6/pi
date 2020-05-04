@@ -2,3 +2,5 @@
 deps/
 
 obj/
+
+bin/
