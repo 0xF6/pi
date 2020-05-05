@@ -48,3 +48,4 @@
 .mul &(![~pi]) &(![~pi]) &(0x1) ;  pi = (raw_pi * 4)
 .mva &(![~term]) &(![~write]) <| $(0xA) ; print \n
 .mvx &(![~term]) &(![~write]) |> &(![~pi]) ; print result from 0x2 cell
+.halt
