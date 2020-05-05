@@ -5,8 +5,7 @@
 - `git clone https://github.com/0xF6/pi.git`  
 - `cd pi` 
 - `yarn global add @rune-temp/cli`    
-- `rune install`    
-- `rune install terminal`   
+- `rune restore`   
 - `rune vm install`   
 - `rune vm install compiler`  
 - `rune vm`    
