@@ -6,8 +6,6 @@
 - `cd pi` 
 - `yarn global add @rune-temp/cli`    
 - `rune restore`   
-- `rune vm install`   
-- `rune vm install compiler`  
 - `rune vm`    
 
 result:     
