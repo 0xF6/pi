@@ -1,6 +1,8 @@
-
 deps/
-
 obj/
-
 bin/
+*.lock
+*.dlx
+*.pdb
+node_modules/
+
